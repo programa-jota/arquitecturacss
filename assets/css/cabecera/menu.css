@@ -1,0 +1,23 @@
+.menu-lista{
+    display: flex;
+}
+
+.menu-item{
+    list-style: none;
+}
+/* Recordar utilizar unidades relativas para el responsive  */
+.menu-link{
+    color: #808080;
+    margin-left: 1.25rem;
+    text-decoration: none;
+
+}
+
+.menu-link.activo{
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu-link:hover{
+    text-decoration: underline;
+}

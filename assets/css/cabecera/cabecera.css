@@ -1,0 +1,9 @@
+.cabecera{
+    align-items: center;
+    background: #f9f9f9;
+    /* Mantego los elementos al mismo nivel */
+    display: flex;
+    justify-content:space-between ;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
