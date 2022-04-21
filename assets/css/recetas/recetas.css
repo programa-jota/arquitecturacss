@@ -1,0 +1,8 @@
+.recetas{
+    background: #e5e5e5;
+    /* Para alinearlos utilizo flex */
+    display: flex;
+    /* Para que se formen en columnas flex-wrap: wrap; */
+    flex-wrap: wrap;
+    padding: 5rem 0 0 5rem;
+}
