@@ -1,0 +1,18 @@
+.persona-imagen--roberta{
+    background: url("../../../img/personas/roberta.jpg");
+}
+.persona-imagen--marcela{
+    background: url("../../../img/personas/marcela.jpg");
+}
+.persona-imagen--andrea{
+    background: url("../../../img/personas/andrea.jpg");
+}
+/* IMPORTANTE: Primeo poner la imagen para despues hacer los arreglos de la misma */
+.persona-imagen{
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
