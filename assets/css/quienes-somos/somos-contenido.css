@@ -1,5 +1,15 @@
 .quienes-somos-descripcion{
     font-weight: 100;
-    font-size: 1.75rem;
     color: #595959;
+}
+
+@media screen and (min-width:0px){
+    .quienes-somos-descripcion{
+        font-size: 1.5rem;
+    }
+}
+@media screen and (min-width:768px){
+    .quienes-somos-descripcion{
+        font-size: 1.75rem;
+    }
 }

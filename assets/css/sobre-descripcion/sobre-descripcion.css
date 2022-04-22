@@ -4,3 +4,13 @@
     font-weight: 100;
     font-size: 1.75rem;
 }
+@media screen and (min-width: 0){
+    .sobre-descripcion{
+        font-size: 1rem;
+    }
+}
+@media screen and (min-width: 768px){
+    .sobre-descripcion{
+        font-size: 1.75rem;
+    }
+}

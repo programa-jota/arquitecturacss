@@ -4,5 +4,8 @@
     display: flex;
     /* Para que se formen en columnas flex-wrap: wrap; */
     flex-wrap: wrap;
-    padding: 5rem 0 0 5rem;
+    justify-content: space-around;
+    padding: 5rem 0 0 0;
+    
 }
+
