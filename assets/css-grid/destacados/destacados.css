@@ -1,9 +1,10 @@
 .destaques{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 25% 25% 25% 24%;
     grid-template-rows: 33.33% 33.33% 33.33%;
     height: calc(100vh - 50px);
-    gap: 0.2rem; /* Espaciado de los hijos de este div*/
+    /* padding: 0.2rem; */
+    gap: 0.2rem; /* Espaciado de los hijos de este div */
 }
 /* DESTAQUES IMAGENES */
 .destaques__principal{
