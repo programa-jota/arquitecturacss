@@ -72,6 +72,13 @@
     padding-bottom: 5px;
     
 }
+.populares__header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 5px;
+
+}
 
 .populares__boton{
     background: transparent;

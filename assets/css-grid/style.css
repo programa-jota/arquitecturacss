@@ -20,6 +20,9 @@
 }
 
 .rodapie { 
-    
-    grid-area: rodapie;
+    background-color: #fdfdfd;
+    grid-area: footer;
+    color: #333333;
+    text-align: center; 
+    padding: 1rem;
 }
